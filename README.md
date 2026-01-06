@@ -1,3 +1,5 @@
+![Project Screenshot](/imagens/screenshot.png)
+
 # Android_Website
 
 ## Project Overview
@@ -31,7 +33,7 @@ The main assets are the Android character images and an embedded YouTube video.
 
 ✔️ Completed
 
-## What I Learned
+## What I Learned 🧠
 
 Through this project, I learned how to:
 
@@ -40,7 +42,7 @@ Through this project, I learned how to:
 - Apply basic responsive design principles
 - Embed images and videos into a webpage
 
-## Author
+## Author 👤
 
 **Rodrigo Zanetti**  
 Project developed as a requirement to complete the introductory HTML and CSS course by Professor Guanabara (Curso em Vídeo - Brazil).
